@@ -10,3 +10,7 @@
 
 # Wafer
 - https://www.kaggle.com/qingyi/wm811k-wafer-map
+
+# General
+- https://github.com/yzhao062/anomaly-detection-resources#11-books 
+
